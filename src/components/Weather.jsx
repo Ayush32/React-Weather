@@ -20,7 +20,7 @@
      rightContainer : {
         background: 'linear-gradient(to right, #e74c3c,#e67e22)',
         height: '80%',
-        width: '60%',
+        width: '67%',
         borderRadius: '20'
      }
  })
